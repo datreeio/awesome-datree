@@ -1,9 +1,9 @@
 # Awesome Datree [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Table of contents
-* 🎥 [Videos >](https://github.com/datreeio/awesome-datree#--videos)  
-* 📖 [Blog posts >](https://github.com/datreeio/awesome-datree#--blog-posts)  
-* 💻 [Projects >](https://github.com/datreeio/awesome-datree#-projects)  
+* 🎥⠀[Videos >](https://github.com/datreeio/awesome-datree#--videos)  
+* 📖⠀[Blog posts >](https://github.com/datreeio/awesome-datree#--blog-posts)  
+* 💻⠀[Projects >](https://github.com/datreeio/awesome-datree#-projects)  
 
 ## 🎥  Videos
 * [Verify Kubernetes Deployments with Datree](https://www.youtube.com/watch?v=MpdhrabnpYs) **by** Anais Urlichs @ #100DaysOfKubernetes (Jun 23, 2021)

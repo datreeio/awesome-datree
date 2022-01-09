@@ -35,6 +35,7 @@
 * [My favourite DevOps & cloud native tools](https://anaisurl.com/my-favourite-devops-cloud-native-tools/) **by Anais Urlichs** @ #100DaysOfKubernete (Nov 19, 2021)
 * [Custom Policy Rules MADE EASY](https://anaisurl.com/custom-policy-rules-made-easy/) **by Anais Urlichs** @ #100DaysOfKubernete (Nov 25, 2021)
 * [Creating custom policies in Datree](https://awstip.com/creating-custom-policies-in-datree-25f8f5098537) **by Sayyam Gatagat** @ AWS Tip (Des 27, 2021)
+* [VSCode Datree: Datree’s power now in your code editor](https://medium.com/@suyashsonawane/vscode-datree-datrees-power-now-in-your-code-editor-747c9cfee610) **by Suyash Sonawane** (Jan 07, 2022)
 
 ## 💻 Projects
 * [Datree Helm Plugin](https://github.com/datreeio/helm-datree) - A Helm plugin to validate charts against the Datree policy **by datreeio**

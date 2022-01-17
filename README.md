@@ -40,6 +40,7 @@
 ## 💻 Projects
 * [Datree Helm Plugin](https://github.com/datreeio/helm-datree) - A Helm plugin to validate charts against the Datree policy **by datreeio**
 * [Datree Policy Generator](https://github.com/sauravhiremath/policy-fy) - CLI tool to auto-generate custom policy file (policy.yml) based on a given Kubernetes config file **by sauravhiremath**
-* [Datree VS Code extension](https://github.com/SuyashSonawane/vscode-datree) - VSCode Extension that allows you to run Datree tests on Kubernetes configurations **by SuyashSonawane**
+* [Datree VS Code Extension](https://github.com/SuyashSonawane/vscode-datree) - VSCode Extension that allows you to run Datree tests on Kubernetes configurations **by SuyashSonawane**
 * [Action Helm Datree](https://github.com/AlexsJones/action-helm-datree) - A simple plugin for enabling the scanning of helm charts with Datree **by AlexsJones**
+* [Yaml Schema Validator](https://github.com/datreeio/yaml-schema-validator) - An on-line YAML Schema Validator for easily writing JSONScham in YAML format **by datreeio**
 

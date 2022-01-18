@@ -16,7 +16,8 @@
 * [Prevent Kubernetes Misconfigurations from Reaching Production with Datree](https://youtu.be/lUQaA9hvEX4) **by Deekshith Kumar** (Oct 19, 2021)
 * [CICD pipeline for Java application to deploy on Kubernetes cluster using Jenkins](https://www.youtube.com/watch?v=adG0vq5boL8) **by Deekshith Kumar** (Oct 11, 2021)
 * [Validating Kubernetes Configurations with Datree](https://www.youtube.com/watch?v=5sj_eyyx1vM) **by Rahul Wagh** (Nov 9, 2021)
-* [Kubernetes Policy Checks on Custom Resources](https://youtu.be/7g8L_30_DSU) **by Anais Urlichs** @ #100DaysOfKubernetes (Nov 25, 2021)
+* [Kubernetes Policy Checks on Custom Resources](https://youtu.be/7g8L_30_DSU) **by Anais Urlichs** @ (Nov 25, 2021)
+* [CI/CD Platform Comparison: CircleCI, Codefresh, GitLab, GitHub Actions] **by Anais Urlichs** @ (Jan 06, 2022)
 
 ## 📖  Blog posts
 * [Day 39: Verify Kubernetes Deployments with Datree](https://devops.anaisurl.com/Day-39-Verify-Kubernetes-Deployments-with-Datree-7d0086214f1d43f8a11bc5e5ea675e9e) **by Anais Urlichs** @ #100DaysOfKubernetes (Jun 23, 2021)  
@@ -32,10 +33,12 @@
 * 🔥 [How to validate Kubernetes](https://medium.com/@piotrzan/how-to-validate-kubernetes-yaml-files-9a17b9a30f08) **by Piotr** (Oct 17, 2021)
 * [Full Tutorial: Deploying Helm Charts in Kubernetes with Terraform](https://anaisurl.com/helm-chart-terraform-deployment/) **by Anais Urlichs** @ #100DaysOfKubernete (Oct 29, 2021)
 * [Validating Kubernetes Configurations with Datree](https://jhooq.com/using-datree/) **by Rahul Wagh** (Nov 9, 2021)
-* [My favourite DevOps & cloud native tools](https://anaisurl.com/my-favourite-devops-cloud-native-tools/) **by Anais Urlichs** @ #100DaysOfKubernete (Nov 19, 2021)
-* [Custom Policy Rules MADE EASY](https://anaisurl.com/custom-policy-rules-made-easy/) **by Anais Urlichs** @ #100DaysOfKubernete (Nov 25, 2021)
+* [My favourite DevOps & cloud native tools](https://anaisurl.com/my-favourite-devops-cloud-native-tools/) **by Anais Urlichs** (Nov 19, 2021)
+* [Custom Policy Rules MADE EASY](https://anaisurl.com/custom-policy-rules-made-easy/) **by Anais Urlichs** (Nov 25, 2021)
 * [Creating custom policies in Datree](https://awstip.com/creating-custom-policies-in-datree-25f8f5098537) **by Sayyam Gatagat** @ AWS Tip (Des 27, 2021)
 * [VSCode Datree: Datree’s power now in your code editor](https://medium.com/@suyashsonawane/vscode-datree-datrees-power-now-in-your-code-editor-747c9cfee610) **by Suyash Sonawane** (Jan 07, 2022)
+* [CI/CD Platform Comparison: CircleCI, Codefresh, GitLab, GitHub Actions](https://anaisurl.com/ci-cd-platform-comparison/) **by Anais Urlichs** (Jan 06, 2022)
+* [Deep Dive: Datree, combating Kubernetes misconfiguration!](https://youtu.be/THeM9QsjLp8) **by Alex Jones** @ Cloud Native Skunkworks (Jan 17, 2022)
 
 ## 💻 Projects
 * [Datree Helm Plugin](https://github.com/datreeio/helm-datree) - A Helm plugin to validate charts against the Datree policy **by datreeio**

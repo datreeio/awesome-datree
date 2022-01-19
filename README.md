@@ -17,7 +17,8 @@
 * [CICD pipeline for Java application to deploy on Kubernetes cluster using Jenkins](https://www.youtube.com/watch?v=adG0vq5boL8) **by Deekshith Kumar** (Oct 11, 2021)
 * [Validating Kubernetes Configurations with Datree](https://www.youtube.com/watch?v=5sj_eyyx1vM) **by Rahul Wagh** (Nov 9, 2021)
 * [Kubernetes Policy Checks on Custom Resources](https://youtu.be/7g8L_30_DSU) **by Anais Urlichs** @ (Nov 25, 2021)
-* [CI/CD Platform Comparison: CircleCI, Codefresh, GitLab, GitHub Actions] **by Anais Urlichs** @ (Jan 06, 2022)
+* [CI/CD Platform Comparison: CircleCI, Codefresh, GitLab, GitHub Actions](https://www.youtube.com/watch?v=oImW32EbveU) **by Anais Urlichs** @ (Jan 06, 2022)
+* [Deep Dive: Datree, combating Kubernetes misconfiguration!](https://youtu.be/THeM9QsjLp8) **by Alex Jones** @ Cloud Native Skunkworks (Jan 17, 2022)
 
 ## 📖  Blog posts
 * [Day 39: Verify Kubernetes Deployments with Datree](https://devops.anaisurl.com/Day-39-Verify-Kubernetes-Deployments-with-Datree-7d0086214f1d43f8a11bc5e5ea675e9e) **by Anais Urlichs** @ #100DaysOfKubernetes (Jun 23, 2021)  
@@ -38,7 +39,7 @@
 * [Creating custom policies in Datree](https://awstip.com/creating-custom-policies-in-datree-25f8f5098537) **by Sayyam Gatagat** @ AWS Tip (Des 27, 2021)
 * [VSCode Datree: Datree’s power now in your code editor](https://medium.com/@suyashsonawane/vscode-datree-datrees-power-now-in-your-code-editor-747c9cfee610) **by Suyash Sonawane** (Jan 07, 2022)
 * [CI/CD Platform Comparison: CircleCI, Codefresh, GitLab, GitHub Actions](https://anaisurl.com/ci-cd-platform-comparison/) **by Anais Urlichs** (Jan 06, 2022)
-* [Deep Dive: Datree, combating Kubernetes misconfiguration!](https://youtu.be/THeM9QsjLp8) **by Alex Jones** @ Cloud Native Skunkworks (Jan 17, 2022)
+* [Writing a security best practices policy for Datree](https://medium.com/@abhra303/writing-a-security-best-practices-policy-for-datree-a564eec97d51) **by Abhradeep Chakraborty** (Jan 18, 2022)
 
 ## 💻 Projects
 * [Datree Helm Plugin](https://github.com/datreeio/helm-datree) - A Helm plugin to validate charts against the Datree policy **by datreeio**

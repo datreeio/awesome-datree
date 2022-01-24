@@ -19,6 +19,7 @@
 * [Kubernetes Policy Checks on Custom Resources](https://youtu.be/7g8L_30_DSU) **by Anais Urlichs** @ (Nov 25, 2021)
 * [CI/CD Platform Comparison: CircleCI, Codefresh, GitLab, GitHub Actions](https://www.youtube.com/watch?v=oImW32EbveU) **by Anais Urlichs** @ (Jan 06, 2022)
 * [Deep Dive: Datree, combating Kubernetes misconfiguration!](https://youtu.be/THeM9QsjLp8) **by Alex Jones** @ Cloud Native Skunkworks (Jan 17, 2022)
+* [Adding Custom Rules in Datree - Prevent Kubernetes Misconfigurations](https://www.youtube.com/watch?v=vDUOqTB6sLc) **by Kunal Kushwaha** @ (Jan 24, 2022)
 
 ## 📖  Blog posts
 * [Day 39: Verify Kubernetes Deployments with Datree](https://devops.anaisurl.com/Day-39-Verify-Kubernetes-Deployments-with-Datree-7d0086214f1d43f8a11bc5e5ea675e9e) **by Anais Urlichs** @ #100DaysOfKubernetes (Jun 23, 2021)  

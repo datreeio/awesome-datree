@@ -19,6 +19,7 @@
 * [Kubernetes Policy Checks on Custom Resources](https://youtu.be/7g8L_30_DSU) **by Anais Urlichs** @ (Nov 25, 2021)
 * [CI/CD Platform Comparison: CircleCI, Codefresh, GitLab, GitHub Actions](https://www.youtube.com/watch?v=oImW32EbveU) **by Anais Urlichs** @ (Jan 06, 2022)
 * [Deep Dive: Datree, combating Kubernetes misconfiguration!](https://youtu.be/THeM9QsjLp8) **by Alex Jones** @ Cloud Native Skunkworks (Jan 17, 2022)
+* [Working with Datree’s Helm Plugin - Prevent Kubernetes Misconfigurations](https://www.youtube.com/watch?v=4yjyF9m2SZA) **by Kunal Kushwaha** @ (Jan 21, 2022)
 * [Adding Custom Rules in Datree - Prevent Kubernetes Misconfigurations](https://www.youtube.com/watch?v=vDUOqTB6sLc) **by Kunal Kushwaha** @ (Jan 24, 2022)
 
 ## 📖  Blog posts
@@ -41,8 +42,10 @@
 * [VSCode Datree: Datree’s power now in your code editor](https://medium.com/@suyashsonawane/vscode-datree-datrees-power-now-in-your-code-editor-747c9cfee610) **by Suyash Sonawane** (Jan 07, 2022)
 * [CI/CD Platform Comparison: CircleCI, Codefresh, GitLab, GitHub Actions](https://anaisurl.com/ci-cd-platform-comparison/) **by Anais Urlichs** (Jan 06, 2022)
 * [Writing a security best practices policy for Datree](https://medium.com/@abhra303/writing-a-security-best-practices-policy-for-datree-a564eec97d51) **by Abhradeep Chakraborty** (Jan 18, 2022)
+* [Prevent Kubernetes misconfigurations from reaching production with Datree](https://kunalkushwaha.com/prevent-kubernetes-misconfigurations-from-reaching-production-with-datree) **by Kunal Kushwaha** (Jan 22, 2022)
 
 ## 💻 Projects
+* [Datree kubectl plugin](https://github.com/datreeio/kubectl-datree) - A kubectl plugin that extends the Datree CLI's capabilities to allow scanning kubernetes manifest files within the cluster for misconfigurations **by datreeio**
 * [Datree Helm Plugin](https://github.com/datreeio/helm-datree) - A Helm plugin to validate charts against the Datree policy **by datreeio**
 * [Datree Policy Generator](https://github.com/sauravhiremath/policy-fy) - CLI tool to auto-generate custom policy file (policy.yml) based on a given Kubernetes config file **by sauravhiremath**
 * [Datree VS Code Extension](https://github.com/SuyashSonawane/vscode-datree) - VSCode Extension that allows you to run Datree tests on Kubernetes configurations **by SuyashSonawane**

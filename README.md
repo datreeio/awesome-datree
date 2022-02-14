@@ -45,6 +45,7 @@
 * [Prevent Kubernetes misconfigurations from reaching production with Datree](https://kunalkushwaha.com/prevent-kubernetes-misconfigurations-from-reaching-production-with-datree) **by Kunal Kushwaha** (Jan 22, 2022)
 
 ## 💻 Projects
+* [Datree github action](https://github.com/datreeio/action-datree) - a github action that runs the Datree CLI and makes it easy to integrate seamlessly into your CI **by datreeio**
 * [Datree kubectl plugin](https://github.com/datreeio/kubectl-datree) - A kubectl plugin that extends the Datree CLI's capabilities to allow scanning kubernetes manifest files within the cluster for misconfigurations **by datreeio**
 * [Datree Helm Plugin](https://github.com/datreeio/helm-datree) - A Helm plugin to validate charts against the Datree policy **by datreeio**
 * [Datree Policy Generator](https://github.com/sauravhiremath/policy-fy) - CLI tool to auto-generate custom policy file (policy.yml) based on a given Kubernetes config file **by sauravhiremath**

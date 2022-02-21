@@ -6,7 +6,6 @@
 * 💻⠀[Projects >](https://github.com/datreeio/awesome-datree#-projects)  
 
 ## 🎥  Videos
-* [How To Write And Test Kubernetes Manifests With Datree](https://youtu.be/3jZTqCETW2w) **by Viktor Farcic @ [DevOps Toolkit](https://youtube.com/c/devopstoolkit)** (February 21, 2022)
 * [Verify Kubernetes Deployments with Datree](https://www.youtube.com/watch?v=MpdhrabnpYs) **by Anais Urlichs** @ #100DaysOfKubernetes (Jun 23, 2021)
 * 🔥 [Kubernetes Best Practices and how to enforce them with Datree](https://www.youtube.com/watch?v=hgUfH9Ab258) **by Nana Janashia** @ TechWorld with Nana (Jun 30, 2021)
 * [CI and Building Code With Datree](https://www.youtube.com/watch?v=2Z5HhEk1zK8) **by Michael Levan** (Sep 23, 2021)
@@ -22,6 +21,7 @@
 * [Deep Dive: Datree, combating Kubernetes misconfiguration!](https://youtu.be/THeM9QsjLp8) **by Alex Jones** @ Cloud Native Skunkworks (Jan 17, 2022)
 * [Working with Datree’s Helm Plugin - Prevent Kubernetes Misconfigurations](https://www.youtube.com/watch?v=4yjyF9m2SZA) **by Kunal Kushwaha** @ (Jan 21, 2022)
 * [Adding Custom Rules in Datree - Prevent Kubernetes Misconfigurations](https://www.youtube.com/watch?v=vDUOqTB6sLc) **by Kunal Kushwaha** @ (Jan 24, 2022)
+* [How To Write And Test Kubernetes Manifests With Datree](https://youtu.be/3jZTqCETW2w) **by Viktor Farcic @ [DevOps Toolkit](https://youtube.com/c/devopstoolkit)** (February 21, 2022)
 
 ## 📖  Blog posts
 * [Day 39: Verify Kubernetes Deployments with Datree](https://devops.anaisurl.com/Day-39-Verify-Kubernetes-Deployments-with-Datree-7d0086214f1d43f8a11bc5e5ea675e9e) **by Anais Urlichs** @ #100DaysOfKubernetes (Jun 23, 2021)  

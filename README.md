@@ -6,6 +6,7 @@
 * 💻⠀[Projects >](https://github.com/datreeio/awesome-datree#-projects)  
 
 ## 🎥  Videos
+* [How To Write And Test Kubernetes Manifests With Datree](https://youtu.be/3jZTqCETW2w) **by Viktor Farcic @ [DevOps Toolkit](https://youtube.com/c/devopstoolkit)** (February 21, 2022)
 * [Verify Kubernetes Deployments with Datree](https://www.youtube.com/watch?v=MpdhrabnpYs) **by Anais Urlichs** @ #100DaysOfKubernetes (Jun 23, 2021)
 * 🔥 [Kubernetes Best Practices and how to enforce them with Datree](https://www.youtube.com/watch?v=hgUfH9Ab258) **by Nana Janashia** @ TechWorld with Nana (Jun 30, 2021)
 * [CI and Building Code With Datree](https://www.youtube.com/watch?v=2Z5HhEk1zK8) **by Michael Levan** (Sep 23, 2021)

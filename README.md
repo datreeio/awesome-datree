@@ -21,7 +21,10 @@
 * [Deep Dive: Datree, combating Kubernetes misconfiguration!](https://youtu.be/THeM9QsjLp8) **by Alex Jones** @ Cloud Native Skunkworks (Jan 17, 2022)
 * [Working with Datree’s Helm Plugin - Prevent Kubernetes Misconfigurations](https://www.youtube.com/watch?v=4yjyF9m2SZA) **by Kunal Kushwaha** @ (Jan 21, 2022)
 * [Adding Custom Rules in Datree - Prevent Kubernetes Misconfigurations](https://www.youtube.com/watch?v=vDUOqTB6sLc) **by Kunal Kushwaha** @ (Jan 24, 2022)
-* [How To Write And Test Kubernetes Manifests With Datree](https://youtu.be/3jZTqCETW2w) **by Viktor Farcic @ [DevOps Toolkit](https://youtube.com/c/devopstoolkit)** (February 21, 2022)
+* [How To Write And Test Kubernetes Manifests With Datree](https://youtu.be/3jZTqCETW2w) **by Viktor Farcic @ [DevOps Toolkit](https://youtube.com/c/devopstoolkit)** (Feb 21, 2022)
+* [Git Hooks Tutorial - Practical Examples with Datree](https://www.youtube.com/watch?v=2aos9axSFyo) **by Kunal Kushwaha** @ (Feb 23, 2022)
+* [Using Argo CD & Datree for Stable Kubernetes CI/CD Deployments](https://www.youtube.com/watch?v=17894DTru2Y) **by Lukonde Mwila** @ (Mar 14, 2022)
+
 
 ## 📖  Blog posts
 * [Day 39: Verify Kubernetes Deployments with Datree](https://devops.anaisurl.com/Day-39-Verify-Kubernetes-Deployments-with-Datree-7d0086214f1d43f8a11bc5e5ea675e9e) **by Anais Urlichs** @ #100DaysOfKubernetes (Jun 23, 2021)  
@@ -44,6 +47,7 @@
 * [CI/CD Platform Comparison: CircleCI, Codefresh, GitLab, GitHub Actions](https://anaisurl.com/ci-cd-platform-comparison/) **by Anais Urlichs** (Jan 06, 2022)
 * [Writing a security best practices policy for Datree](https://medium.com/@abhra303/writing-a-security-best-practices-policy-for-datree-a564eec97d51) **by Abhradeep Chakraborty** (Jan 18, 2022)
 * [Prevent Kubernetes misconfigurations from reaching production with Datree](https://kunalkushwaha.com/prevent-kubernetes-misconfigurations-from-reaching-production-with-datree) **by Kunal Kushwaha** (Jan 22, 2022)
+* [Working with Datree’s Helm Plugin](https://kunalkushwaha.com/datree-helm-plugin) **by Kunal Kushwaha** (Mar 23, 2022)
 
 ## 💻 Projects
 * [Datree github action](https://github.com/datreeio/action-datree) - a github action that runs the Datree CLI and makes it easy to integrate seamlessly into your CI **by datreeio**

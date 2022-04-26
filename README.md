@@ -24,6 +24,11 @@
 * [How To Write And Test Kubernetes Manifests With Datree](https://youtu.be/3jZTqCETW2w) **by Viktor Farcic @ [DevOps Toolkit](https://youtube.com/c/devopstoolkit)** (Feb 21, 2022)
 * [Git Hooks Tutorial - Practical Examples with Datree](https://www.youtube.com/watch?v=2aos9axSFyo) **by Kunal Kushwaha** @ (Feb 23, 2022)
 * [Using Argo CD & Datree for Stable Kubernetes CI/CD Deployments](https://www.youtube.com/watch?v=17894DTru2Y) **by Lukonde Mwila** @ (Mar 14, 2022)
+* [Prevent Argo CD Misconfigurations With Datree - Rollouts, Workflows, and More!](https://www.youtube.com/watch?v=vnes_Z8HDOQ) **by Kunal Kushwaha** @ (Apr 17, 2022)
+* [Kubernetes at Home - for review](https://www.youtube.com/watch?v=EO8y7sqYqb0) **by Christian Lempa** @ (Apr 20, 2022)
+* [Datree CLI GitHub Actions Tutorial - Environments, Secrets, and More!](https://www.youtube.com/watch?v=kyjze0gRrFM) **by Kunal Kushwaha** @ (Apr 24, 2022)
+* [Enforce ArgoCD Best Practices with Datree](https://www.youtube.com/watch?v=7bxh7_lBQYo) **by Noaa Barki** @ (Apr 24, 2022)
+* [ArgoCD Best Practices](https://www.youtube.com/watch?v=Hoh5oJnfpKA) **by Noaa Barki** @ (Apr 25, 2022)
 
 
 ## 📖  Blog posts

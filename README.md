@@ -29,6 +29,7 @@
 * [Datree CLI GitHub Actions Tutorial - Environments, Secrets, and More!](https://www.youtube.com/watch?v=kyjze0gRrFM) **by Kunal Kushwaha** @ (Apr 24, 2022)
 * [Enforce ArgoCD Best Practices with Datree](https://www.youtube.com/watch?v=7bxh7_lBQYo) **by Noaa Barki** @ (Apr 24, 2022)
 * [ArgoCD Best Practices](https://www.youtube.com/watch?v=Hoh5oJnfpKA) **by Noaa Barki** @ (Apr 25, 2022)
+* [How to Fix ImagePullBackOff Error](https://www.youtube.com/watch?v=ICkQwGlj9Zo) **by Hadar Cohen** @ (May 12, 2022)
 
 
 ## 📖  Blog posts

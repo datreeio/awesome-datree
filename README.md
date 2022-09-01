@@ -30,7 +30,9 @@
 * [Enforce ArgoCD Best Practices with Datree](https://www.youtube.com/watch?v=7bxh7_lBQYo) **by Noaa Barki** @ (Apr 24, 2022)
 * [ArgoCD Best Practices](https://www.youtube.com/watch?v=Hoh5oJnfpKA) **by Noaa Barki** @ (Apr 25, 2022)
 * [How to Fix ImagePullBackOff Error](https://www.youtube.com/watch?v=ICkQwGlj9Zo) **by Hadar Cohen** @ (May 12, 2022)
-
+* [Container Best Practices with Datree](https://www.youtube.com/watch?v=XO_knO1ruWQ) **by Lukonde Mwila** @ (June 13, 2022)
+* [Detect Kubernetes misconfigurations before its too late | Introduction to Datree](https://www.youtube.com/watch?v=aqiOyXPPadk) **by That DevOps Guy** @ (July 31,2022)
+* [How to Gracefully Shutdown Your Apps with a preStop Hook](https://www.youtube.com/watch?v=ahCuWAsAPlc&feature=share) **by Shimon Tolts (august 18, 2022) 
 
 ## 📖  Blog posts
 * [Day 39: Verify Kubernetes Deployments with Datree](https://devops.anaisurl.com/Day-39-Verify-Kubernetes-Deployments-with-Datree-7d0086214f1d43f8a11bc5e5ea675e9e) **by Anais Urlichs** @ #100DaysOfKubernetes (Jun 23, 2021)  

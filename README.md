@@ -30,7 +30,9 @@
 * [Enforce ArgoCD Best Practices with Datree](https://www.youtube.com/watch?v=7bxh7_lBQYo) **by Noaa Barki** @ (Apr 24, 2022)
 * [ArgoCD Best Practices](https://www.youtube.com/watch?v=Hoh5oJnfpKA) **by Noaa Barki** @ (Apr 25, 2022)
 * [How to Fix ImagePullBackOff Error](https://www.youtube.com/watch?v=ICkQwGlj9Zo) **by Hadar Cohen** @ (May 12, 2022)
-
+* [Container Best Practices with Datree](https://www.youtube.com/watch?v=XO_knO1ruWQ) **by Lukonde Mwila** @ (June 13, 2022)
+* [Detect Kubernetes misconfigurations before its too late | Introduction to Datree](https://www.youtube.com/watch?v=aqiOyXPPadk) **by That DevOps Guy** @ (July 31,2022)
+* [How to Gracefully Shutdown Your Apps with a preStop Hook](https://www.youtube.com/watch?v=ahCuWAsAPlc&feature=share) **by Shimon Tolts** (august 18, 2022) 
 
 ## 📖  Blog posts
 * [Day 39: Verify Kubernetes Deployments with Datree](https://devops.anaisurl.com/Day-39-Verify-Kubernetes-Deployments-with-Datree-7d0086214f1d43f8a11bc5e5ea675e9e) **by Anais Urlichs** @ #100DaysOfKubernetes (Jun 23, 2021)  
@@ -54,6 +56,8 @@
 * [Writing a security best practices policy for Datree](https://medium.com/@abhra303/writing-a-security-best-practices-policy-for-datree-a564eec97d51) **by Abhradeep Chakraborty** (Jan 18, 2022)
 * [Prevent Kubernetes misconfigurations from reaching production with Datree](https://kunalkushwaha.com/prevent-kubernetes-misconfigurations-from-reaching-production-with-datree) **by Kunal Kushwaha** (Jan 22, 2022)
 * [Working with Datree’s Helm Plugin](https://kunalkushwaha.com/datree-helm-plugin) **by Kunal Kushwaha** (Mar 23, 2022)
+* [Continuous Delivery on Kubernetes with Argo CD and Datree](https://piotrminkowski.com/author/piotr-minkowski/) **by Piotr Mińkowski** (Aug 29, 2022)
+
 
 ## 💻 Projects
 * [Datree github action](https://github.com/datreeio/action-datree) - a github action that runs the Datree CLI and makes it easy to integrate seamlessly into your CI **by datreeio**

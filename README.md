@@ -56,7 +56,7 @@
 * [Writing a security best practices policy for Datree](https://medium.com/@abhra303/writing-a-security-best-practices-policy-for-datree-a564eec97d51) **by Abhradeep Chakraborty** (Jan 18, 2022)
 * [Prevent Kubernetes misconfigurations from reaching production with Datree](https://kunalkushwaha.com/prevent-kubernetes-misconfigurations-from-reaching-production-with-datree) **by Kunal Kushwaha** (Jan 22, 2022)
 * [Working with Datree’s Helm Plugin](https://kunalkushwaha.com/datree-helm-plugin) **by Kunal Kushwaha** (Mar 23, 2022)
-* [Continuous Delivery on Kubernetes with Argo CD and Datree](https://piotrminkowski.com/author/piotr-minkowski/) **by Piotr Mińkowski** (Aug 29, 2022)
+* [Continuous Delivery on Kubernetes with Argo CD and Datree](https://piotrminkowski.com/2022/08/29/continuous-delivery-on-kubernetes-with-argo-cd-and-datree/) **by Piotr Mińkowski** (Aug 29, 2022)
 
 
 ## 💻 Projects

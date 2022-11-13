@@ -65,7 +65,9 @@
 
 
 ## 💻 Projects
-* [Datree github action](https://github.com/datreeio/action-datree) - a github action that runs the Datree CLI and makes it easy to integrate seamlessly into your CI **by datreeio**
+* [CRD catalog](https://github.com/datreeio/crds-catalog) - A repository that aggregates over 100 popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format **by datreeio**
+* [CRD extractor](https://github.com/datreeio/crds-catalog#crd-extractor) - A lightweight tool that extracts all CRDs from a cluster and converts them to JSON schema **by datreeio**
+* [Datree github action](https://github.com/datreeio/action-datree) - A github action that runs the Datree CLI and makes it easy to integrate seamlessly into your CI **by datreeio**
 * [Datree kubectl plugin](https://github.com/datreeio/kubectl-datree) - A kubectl plugin that extends the Datree CLI's capabilities to allow scanning kubernetes manifest files within the cluster for misconfigurations **by datreeio**
 * [Datree Helm Plugin](https://github.com/datreeio/helm-datree) - A Helm plugin to validate charts against the Datree policy **by datreeio**
 * [Datree Policy Generator](https://github.com/sauravhiremath/policy-fy) - CLI tool to auto-generate custom policy file (policy.yml) based on a given Kubernetes config file **by sauravhiremath**
